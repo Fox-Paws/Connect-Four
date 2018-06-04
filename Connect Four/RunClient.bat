@@ -1,0 +1,1 @@
+java -cp .;ocsf.jar connectFour.ClientGUI localhost 8300
